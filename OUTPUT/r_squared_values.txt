@@ -1,0 +1,11 @@
+[JPM] R² on test set: 0.4632
+[MA] R² on test set: 0.7183
+[V] R² on test set: 0.3047
+[AAPL] R² on test set: -5.1019
+[NVDA] R² on test set: -0.2026
+[MSFT] R² on test set: -1.4376
+[UNH] R² on test set: -0.1684
+[GLD] R² on test set: -1.7222
+[JNJ] R² on test set: -2.4378
+[LLY] R² on test set: -1.1417
+[SLV] R² on test set: -4.7783
